@@ -5,14 +5,19 @@
         "job" : "Best-teacher" 
     },
     {
-        "name" : "Dima",
+        "name" : "Martin",
         "lastname" : "Machina",
-        "job" : "Best-teacher" 
+        "job" : "Grafik-Designer" 
     },
     {
-        "name" : "Dima",
+        "name" : "Osman",
         "lastname" : "Machina",
-        "job" : "Best-teacher" 
+        "job" : "Mathe-Teacher" 
+    },
+        {
+        "name" : "Anna",
+        "lastname" : "Machina",
+        "job" : "Designerin" 
     }
 ]
 
