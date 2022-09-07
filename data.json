@@ -2,22 +2,26 @@
     {
         "name" : "Dima",
         "lastname" : "Machina",
-        "job" : "Best-teacher" 
+        "job" : "Best-Teacher" ,
+        "src" : "https://c8.alamy.com/comp/JFCNKE/cat-and-fish-coloring-page-JFCNKE.jpg"
     },
     {
         "name" : "Martin",
         "lastname" : "Machina",
-        "job" : "Grafik-Designer" 
+        "job" : "Grafik-Designer",
+        "src" : "https://c8.alamy.com/compde/kh59j6/susse-katze-cartoon-schwarz-und-weiss-vector-illustration-kh59j6.jpg"
     },
     {
         "name" : "Osman",
         "lastname" : "Machina",
-        "job" : "Mathe-Teacher" 
+        "job" : "Mathe-Teacher",
+        "src" : "https://img.pixers.pics/pho_wat(s3:700/FO/67/01/77/22/700_FO67017722_653896c4ab870f35a139b097270dfcbe.jpg,502,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,282,650,jpg)/seitenschlaferkissen-suse-katze-cartoon-malvorlagen.jpg.jpg"
     },
         {
         "name" : "Anna",
         "lastname" : "Machina",
-        "job" : "Designerin" 
+        "job" : "Designerin",
+        "src" : "https://previews.123rf.com/images/lineartestpilot/lineartestpilot1603/lineartestpilot160305191/53287969-freihand-gezeichnete-schwarz-wei%C3%9F-cartoon-katze.jpg"
     }
 ]
 
